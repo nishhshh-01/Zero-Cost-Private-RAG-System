@@ -1,4 +1,4 @@
- — Zero-Cost Private RAG System
+ #Zero-Cost Private RAG System
 
 It is a web-based AI assistant that enables users to chat with their own data privately using Retrieval-Augmented Generation (RAG).
 It combines semantic search with LLMs to generate context-aware, accurate responses from a custom knowledge base.
